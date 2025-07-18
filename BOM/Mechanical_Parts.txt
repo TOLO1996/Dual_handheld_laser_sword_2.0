@@ -1,0 +1,5 @@
+To assembly one device u need:
+
+4 pieces of M3x22mm bolt -> 1570366 BOSSARD
+4 pieces of M3xNut flat h =2.4mm -> 1088998 BOSSARD
+6 Pieces of 1,8x5 screw to plastic 3205122 BOSSARD
