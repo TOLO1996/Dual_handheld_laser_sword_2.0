@@ -16,7 +16,11 @@ The entire diagram can be seen in the image below.
 
 <img width="1121" height="791" alt="image" src="https://github.com/user-attachments/assets/62caba90-e972-47fd-9d08-13a62bda25ad" />
 
+## PCB Design
 
+The printed circuit board was designed as a two-layer board in the EasyEda program. The PCB dimensions are 76x32mm. The laser diodes were mounted on special 3D-printed supports. After testing, it turned out that the ability to adjust the position of the lasers was necessary. This was introduced in the next version. The assembled board is shown below.
+
+<img width="1121" height="791" alt="image" src="PDF/Iso_Top.png" />
 
 ## Mechanical Info
 
