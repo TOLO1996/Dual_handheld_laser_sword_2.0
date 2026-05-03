@@ -31,6 +31,9 @@ the printed circuit board is screwed to the lower part using screws 3205122 BOSS
 The disadvantage of this solution is the lack of elements that hold both shelves relative to each other, which may cause them to move and block the button levers.
 
 The buttons are placed on the button levers and secured with glue. Openings in the housing allow access to the potentiators to regulate the laser current. The gap at the bottom allows you to display the battery charge status
+
+The assembled device is shown below
+<img width="1121" height="791" alt="image" src="PDF/Iso_Top.png" />
 ## Design flaws
 
 
