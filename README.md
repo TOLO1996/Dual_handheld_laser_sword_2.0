@@ -33,7 +33,7 @@ The disadvantage of this solution is the lack of elements that hold both shelves
 The buttons are placed on the button levers and secured with glue. Openings in the housing allow access to the potentiators to regulate the laser current. The gap at the bottom allows you to display the battery charge status
 
 The assembled device is shown below
-<img width="1121" height="791" alt="image" src="PDF/Iso_Top.png" />
+<img width="1121" height="791" alt="image" src="IMG_20250321_104323618.jpg" />
 ## Design flaws
 
 
